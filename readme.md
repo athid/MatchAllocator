@@ -7,7 +7,7 @@
 • Huvudfliken får översiktskolumner: Kallelser Hemma, Kallelser Borta, Kallelser Totalt, Reservkallelser, Målvaktsgånger.  
 • Målvaktsval prioriterar de som angett målvakt (kan stängas av med --no-prefer-gk-volunteers).  
 • Matchkolumner identifieras automatiskt via titlar som innehåller (Hemma) eller (Borta).  
-• “Bortavillig” härleds från #Borta svar om den finns, annars genom att räkna “Ja” i bortamatchkolumnerna.  
+• “Bortavillig” spelare härleds från antalet svar på bortamatcher om den finns.
 
 ## Exempel på fler körningar
 Med egen utdatafil och utan krav på exakt 4 i reservkedjan:  
