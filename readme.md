@@ -14,5 +14,5 @@
 Med egen utdatafil och utan krav på exakt 4 i reservkedjan:  
 <code>python p16_allocation.py P16-svar_blank.xlsx P16_resultat.xlsx --no-require-exact-reserve-four</code>
 
-Sätt andra tak:
+Sätt andra tak:  
 <code>python p16_allocation.py P16-svar_blank.xlsx P16_resultat.xlsx --max-home-base 2 --max-away-base 2 --gk-cap 1</code>
