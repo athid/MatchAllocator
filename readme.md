@@ -1,5 +1,6 @@
-# Vad scriptet gör (regler):
+# Vad scriptet gör:
 
+• Tar en infil, med spelare på rader, och matcher på kolumner, samt två kolumner för villig att spela mer matcher, samt att vara målvakt.
 • Strikt max 1 målvakt per spelare (--gk-cap 1, kan ändras).  
 • Standardkallelser: max 2 hemma och max 2 borta per spelare (kan ändras med --max-home-base och --max-away-base).  
 • Kedja 3 (RESERV) skapas endast om exakt 4 spelare finns (--require-exact-reserve-four, default). Du kan släppa detta krav med --no-require-exact-reserve-four.  
